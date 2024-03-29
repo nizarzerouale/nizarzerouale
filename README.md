@@ -42,7 +42,7 @@
 <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />  -->
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to solve maths and statistics problem <br/><br/>
+ ❤️ &emsp; Love to solve maths and statistics problems <br/><br/>
  🤔 &emsp; Looking to expand my network <br/><br/>
  📧 &emsp; Reach me anytime: zerouale.nizar@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/nizarzerouale/nizarzerouale/issues)
