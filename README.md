@@ -81,7 +81,7 @@
 
 <br/>
 
-## Top Open Source -
+## Top Open Source 
 [![Automatic Face Detection and Recognition](https://github-readme-stats.vercel.app/api/pin/?username=nizarzerouale&repo=Automatic-Face-Detection-and-Recognition&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nizarzerouale/Automatic-Face-Detection-and-Recognition)
 [![Cats vs Dogs Image Classification](https://github-readme-stats.vercel.app/api/pin/?username=nizarzerouale&repo=Cats-vs-Dogs-Image-Classification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nizarzerouale/Cats-vs-Dogs-Image-Classification)
 [![Fashion Clothing Classification](https://github-readme-stats.vercel.app/api/pin/?username=nizarzerouale&repo=Fashion-Clothing-Classification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nizarzerouale/Fashion-Clothing-Classification)
