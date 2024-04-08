@@ -45,7 +45,7 @@
  ❤️ &emsp; Love to solve maths and statistics problems <br/><br/>
  🤔 &emsp; Looking to expand my network <br/><br/>
  📧 &emsp; Reach me anytime: zerouale.nizar@gmail.com<br/><br/>
- 🚀 &emsp; Here you can find my [Portfolio](https://www.datascienceportfol.io/nizar_zerouale)
+ 🚀 &emsp; Here you can find my [Portfolio](https://www.datascienceportfol.io/nizar_zerouale)<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/nizarzerouale/nizarzerouale/issues)
 
 </p>
