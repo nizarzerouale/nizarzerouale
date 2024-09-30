@@ -22,7 +22,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Nizar+Zerouale">「 Google Me 」</a>
     <br>
-    「 I am a 4th year engineer student in Telecom SudParis 」
+    「 I am a 5th year engineering student, specialized in Data Science and AI @École Polytechnique 」
     <br>
     <br>
   </samp>
